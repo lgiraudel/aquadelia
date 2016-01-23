@@ -1,5 +1,5 @@
 {
-    "root": "/galeries/animaux/",
+    "root": "../galeries/animaux/",
     "images": [
         { "url": "big/ALLEZMONTE0.jpg", "thumb": "thumbs/ALLEZMONTE0.jpg", "caption": "ALLEZ! MONTE! - 2012" },
         { "url": "big/Ahquellefatigue.JPG", "thumb": "thumbs/Ahquellefatigue.JPG", "caption": "AH! QUELLE FATIGUE ! - 2003" },

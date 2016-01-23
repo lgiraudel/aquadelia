@@ -1,5 +1,5 @@
 {
-    "root": "/galeries/divers/",
+    "root": "../galeries/divers/",
     "images": [
         { "url": "big/Amazonie0.JPG", "thumb": "thumbs/Amazonie0.JPG" },
         { "url": "big/Lagalerie.JPG", "thumb": "thumbs/Lagalerie.JPG" },

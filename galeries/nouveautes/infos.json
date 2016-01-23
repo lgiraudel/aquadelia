@@ -1,5 +1,5 @@
 {
-    "root": "/galeries/",
+    "root": "../galeries/",
     "images": [
         { "url": "paysages/big/Aubordduvieuxcanal0.jpg", "thumb": "paysages/thumbs/Aubordduvieuxcanal0.jpg" },
         { "url": "fleurs et arbres/big/cerisier0.jpg", "thumb": "fleurs et arbres/thumbs/cerisier0.jpg" },

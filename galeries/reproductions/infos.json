@@ -1,5 +1,5 @@
 {
-    "root": "/galeries/reproductions/",
+    "root": "../galeries/reproductions/",
     "images": [
         { "url": "big/AlamanieredeJLMorelle-nu-3.JPG", "thumb": "thumbs/AlamanieredeJLMorelle-nu-3.JPG" },
         { "url": "big/AlamanieredeJuliaCassels-allonschercherleau0.jpg", "thumb": "thumbs/AlamanieredeJuliaCassels-allonschercherleau0.jpg" },

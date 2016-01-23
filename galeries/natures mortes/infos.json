@@ -1,5 +1,5 @@
 {
-    "root": "/galeries/natures mortes/",
+    "root": "../galeries/natures mortes/",
     "images": [
         { "url": "big/Automne.JPG", "thumb": "thumbs/Automne.JPG" },
         { "url": "big/Figues0.JPG", "thumb": "thumbs/Figues0.JPG" },

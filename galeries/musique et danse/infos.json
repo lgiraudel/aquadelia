@@ -1,5 +1,5 @@
 {
-    "root": "/galeries/musique et danse/",
+    "root": "../galeries/musique et danse/",
     "images": [
         { "url": "big/Balletrusse.JPG", "thumb": "thumbs/Balletrusse.JPG" },
         { "url": "big/Feteauvillage2.jpg", "thumb": "thumbs/Feteauvillage2.jpg" },

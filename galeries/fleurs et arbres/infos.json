@@ -1,5 +1,5 @@
 {
-    "root": "/galeries/fleurs et arbres/",
+    "root": "../galeries/fleurs et arbres/",
     "images": [
         { "url": "big/Auborddumonde0.jpg", "thumb": "thumbs/Auborddumonde0.jpg" },
         { "url": "big/Bientotfanee.JPG", "thumb": "thumbs/Bientotfanee.JPG" },

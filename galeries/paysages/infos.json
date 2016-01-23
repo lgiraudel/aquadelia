@@ -1,5 +1,5 @@
 {
-    "root": "/galeries/paysages/",
+    "root": "../galeries/paysages/",
     "images": [
         { "url": "big/Abstrait-automnesurlelac0.jpg", "thumb": "thumbs/Abstrait-automnesurlelac0.jpg" },
         { "url": "big/Aubordduvieuxcanal0.jpg", "thumb": "thumbs/Aubordduvieuxcanal0.jpg" },

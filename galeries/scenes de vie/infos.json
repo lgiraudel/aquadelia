@@ -1,5 +1,5 @@
 {
-    "root": "/galeries/scenes de vie/",
+    "root": "../galeries/scenes de vie/",
     "images": [
         { "url": "big/Abrivado0.jpg", "thumb": "thumbs/Abrivado0.jpg" },
         { "url": "big/Aubordduchemin0.jpg", "thumb": "thumbs/Aubordduchemin0.jpg" },

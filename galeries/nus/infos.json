@@ -1,5 +1,5 @@
 {
-    "root": "/galeries/nus/",
+    "root": "../galeries/nus/",
     "images": [
         { "url": "big/Ausautdulit.JPG", "thumb": "thumbs/Ausautdulit.JPG" },
         { "url": "big/EVE2.jpg", "thumb": "thumbs/EVE2.jpg" },

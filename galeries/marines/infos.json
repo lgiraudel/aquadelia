@@ -1,5 +1,5 @@
 {
-    "root": "/galeries/marines/",
+    "root": "../galeries/marines/",
     "images": [
         { "url": "big/Automnesurlacote0.jpg", "thumb": "thumbs/Automnesurlacote0.jpg" },
         { "url": "big/Bientotlanuit.JPG", "thumb": "thumbs/Bientotlanuit.JPG" },

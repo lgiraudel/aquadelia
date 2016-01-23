@@ -1,5 +1,5 @@
 {
-    "root": "/galeries/portraits/",
+    "root": "../galeries/portraits/",
     "images": [
         { "url": "big/Attentive0.jpg", "thumb": "thumbs/Attentive0.jpg" },
         { "url": "big/Chloe0.jpg", "thumb": "thumbs/Chloe0.jpg" },

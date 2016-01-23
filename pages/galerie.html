@@ -3,8 +3,8 @@
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <title>Aquadelia - Les aquarelles d'Eliane Giraudel</title>
-  <link rel="stylesheet" href="/css/template.css">
-  <link rel="stylesheet" href="/css/camera.css">
+  <link rel="stylesheet" href="../css/template.css">
+  <link rel="stylesheet" href="../css/camera.css">
 </head>
 <body>
     <div id="container">
@@ -14,23 +14,23 @@
                 <div class="moduletable">
                     <ul id="mainlevel-nav">
                         <li>
-                            <a href="/pages/accueil.html" class="mainlevel-nav">Accueil</a>
+                            <a href="accueil.html" class="mainlevel-nav">Accueil</a>
                         </li>
                         <li>
-                            <a href="/pages/nouveautes.html" class="mainlevel-nav">Nouveaut&eacute;s</a>
+                            <a href="galerie.html?galerie=nouveautes" class="mainlevel-nav">Nouveaut&eacute;s</a>
                         </li>
                         <li>
-                            <a href="/pages/galeries.html" class="mainlevel-nav" >Galerie</a>
+                            <a href="galeries.html" class="mainlevel-nav" >Galerie</a>
                         </li>
                         <li>
-                            <a href="/pages/liens-favoris.html" class="mainlevel-nav" >Liens Favoris</a>
+                            <a href="liens-favoris.html" class="mainlevel-nav" >Liens Favoris</a>
                         </li>
                     </ul>
                 </div>
             </div>
         </div>
         <div id="wrap">
-            <div class="logo"><img src="/images/logo.png" alt="" /></div>
+            <div class="logo"><img src="../images/logo.png" alt="" /></div>
             <div class="camera_wrap"></div>
         </div>
         <div id="footer">
@@ -40,8 +40,8 @@
         </div>
     </div>
     <script src="https://code.jquery.com/jquery-2.2.0.min.js" charset="utf-8"></script>
-    <script src="/js/jquery.easing.js" charset="utf-8"></script>
-    <script src="/js/camera.js" charset="utf-8"></script>
+    <script src="../js/jquery.easing.js" charset="utf-8"></script>
+    <script src="../js/camera.js" charset="utf-8"></script>
     <script>
         $(function() {
             var parameters = document.location.search.substr(1).split('&').reduce(function(iterator, curr) {
@@ -49,7 +49,7 @@
                 iterator[keyAndValue[0]] = keyAndValue[1];
                 return iterator;
             }, {});
-            $.get('/galeries/' + parameters['galerie'] + '/infos.json', function(json) {
+            $.get('../galeries/' + parameters['galerie'] + '/infos.json', function(json) {
                 var root = json.root;
                 var imagesHtml = '';
 
