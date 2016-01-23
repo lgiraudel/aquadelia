@@ -2,7 +2,7 @@
     "root": "../galeries/divers/",
     "images": [
         { "url": "big/Amazonie0.JPG", "thumb": "thumbs/Amazonie0.JPG", "caption": "AMAZONIE - 2005" },
-        { "url": "big/Lagalerie.JPG", "thumb": "thumbs/Lagalerie.JPG" },
+        { "url": "big/Lagalerie.JPG", "thumb": "thumbs/Lagalerie.JPG", "caption": "Galerie Divers" },
         { "url": "big/LanneeduBresil.JPG", "thumb": "thumbs/LanneeduBresil.JPG" },
         { "url": "big/Reve0.jpg", "thumb": "thumbs/Reve0.jpg" },
         { "url": "big/arbre-poeme.JPG", "thumb": "thumbs/arbre-poeme.JPG" },
