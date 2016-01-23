@@ -1,0 +1,11 @@
+{
+    "root": "/galeries/nus/",
+    "images": [
+        { "url": "big/Ausautdulit.JPG", "thumb": "thumbs/Ausautdulit.JPG" },
+        { "url": "big/EVE2.jpg", "thumb": "thumbs/EVE2.jpg" },
+        { "url": "big/Ensortantdubain.jpg", "thumb": "thumbs/Ensortantdubain.jpg" },
+        { "url": "big/Lasieste.JPG", "thumb": "thumbs/Lasieste.JPG" },
+        { "url": "big/Quemettreaujourdhui.JPG", "thumb": "thumbs/Quemettreaujourdhui.JPG" },
+        { "url": "big/nu.JPG", "thumb": "thumbs/nu.JPG" }
+    ]
+}

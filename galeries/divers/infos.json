@@ -1,0 +1,14 @@
+{
+    "root": "/galeries/divers/",
+    "images": [
+        { "url": "big/Amazonie0.JPG", "thumb": "thumbs/Amazonie0.JPG" },
+        { "url": "big/Lagalerie.JPG", "thumb": "thumbs/Lagalerie.JPG" },
+        { "url": "big/LanneeduBresil.JPG", "thumb": "thumbs/LanneeduBresil.JPG" },
+        { "url": "big/Reve0.jpg", "thumb": "thumbs/Reve0.jpg" },
+        { "url": "big/arbre-poeme.JPG", "thumb": "thumbs/arbre-poeme.JPG" },
+        { "url": "big/calligraphie.JPG", "thumb": "thumbs/calligraphie.JPG" },
+        { "url": "big/lescopines.JPG", "thumb": "thumbs/lescopines.JPG" },
+        { "url": "big/lespassantes.JPG", "thumb": "thumbs/lespassantes.JPG" },
+        { "url": "big/souvenirsdevacances0.jpg", "thumb": "thumbs/souvenirsdevacances0.jpg" }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "root": "/galeries/marines/",
+    "images": [
+        { "url": "big/Automnesurlacote0.jpg", "thumb": "thumbs/Automnesurlacote0.jpg" },
+        { "url": "big/Bientotlanuit.JPG", "thumb": "thumbs/Bientotlanuit.JPG" },
+        { "url": "big/Cestlete1.jpg", "thumb": "thumbs/Cestlete1.jpg" },
+        { "url": "big/Cotecubaine0.jpg", "thumb": "thumbs/Cotecubaine0.jpg" },
+        { "url": "big/Crepuscule0.jpg", "thumb": "thumbs/Crepuscule0.jpg" },
+        { "url": "big/Depart0.JPG", "thumb": "thumbs/Depart0.JPG" },
+        { "url": "big/Ensortantduport.JPG", "thumb": "thumbs/Ensortantduport.JPG" },
+        { "url": "big/Escales1.jpg", "thumb": "thumbs/Escales1.jpg" },
+        { "url": "big/Laregate.JPG", "thumb": "thumbs/Laregate.JPG" },
+        { "url": "big/Lasentinelle.JPG", "thumb": "thumbs/Lasentinelle.JPG" },
+        { "url": "big/Latempete.JPG", "thumb": "thumbs/Latempete.JPG" },
+        { "url": "big/Legrainarrive0.jpg", "thumb": "thumbs/Legrainarrive0.jpg" },
+        { "url": "big/Lesoirsafran.JPG", "thumb": "thumbs/Lesoirsafran.JPG" },
+        { "url": "big/Lheuredubain0.jpg", "thumb": "thumbs/Lheuredubain0.jpg" },
+        { "url": "big/Linvincible.JPG", "thumb": "thumbs/Linvincible.JPG" },
+        { "url": "big/Regate0.jpg", "thumb": "thumbs/Regate0.jpg" },
+        { "url": "big/Sieste.jpg", "thumb": "thumbs/Sieste.jpg" },
+        { "url": "big/SoireeenLithanie0.jpg", "thumb": "thumbs/SoireeenLithanie0.jpg" },
+        { "url": "big/danslesud.JPG", "thumb": "thumbs/danslesud.JPG" },
+        { "url": "big/grosgrain.JPG", "thumb": "thumbs/grosgrain.JPG" },
+        { "url": "big/lacitadelle.JPG", "thumb": "thumbs/lacitadelle.JPG" },
+        { "url": "big/leressac1.jpg", "thumb": "thumbs/leressac1.jpg" },
+        { "url": "big/mareebasse.JPG", "thumb": "thumbs/mareebasse.JPG" },
+        { "url": "big/repossurlefleuve.jpg", "thumb": "thumbs/repossurlefleuve.jpg" },
+        { "url": "big/spot0.jpg", "thumb": "thumbs/spot0.jpg" },
+        { "url": "big/surf.JPG", "thumb": "thumbs/surf.JPG" },
+        { "url": "big/surlavague.JPG", "thumb": "thumbs/surlavague.JPG" }
+    ]
+}

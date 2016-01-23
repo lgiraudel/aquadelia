@@ -1,0 +1,15 @@
+{
+    "root": "/galeries/reproductions/",
+    "images": [
+        { "url": "big/AlamanieredeJLMorelle-nu-3.JPG", "thumb": "thumbs/AlamanieredeJLMorelle-nu-3.JPG" },
+        { "url": "big/AlamanieredeJuliaCassels-allonschercherleau0.jpg", "thumb": "thumbs/AlamanieredeJuliaCassels-allonschercherleau0.jpg" },
+        { "url": "big/AlamaniredeEKarpinska-coquelicots.JPG", "thumb": "thumbs/AlamaniredeEKarpinska-coquelicots.JPG" },
+        { "url": "big/AlamaniredeJLMorelle-nu-1.JPG", "thumb": "thumbs/AlamaniredeJLMorelle-nu-1.JPG" },
+        { "url": "big/AlamaniredeJLMorelle-nu-2.JPG", "thumb": "thumbs/AlamaniredeJLMorelle-nu-2.JPG" },
+        { "url": "big/AlamaniredeMDeMay-Narcisses.JPG", "thumb": "thumbs/AlamaniredeMDeMay-Narcisses.JPG" },
+        { "url": "big/AlamaniredeMDeMay-Souslorage0.JPG", "thumb": "thumbs/AlamaniredeMDeMay-Souslorage0.JPG" },
+        { "url": "big/AlamaniredeMLaigneau-Bouquet.JPG", "thumb": "thumbs/AlamaniredeMLaigneau-Bouquet.JPG" },
+        { "url": "big/AlamaniredeMLaigneau-Rgate.JPG", "thumb": "thumbs/AlamaniredeMLaigneau-Rgate.JPG" },
+        { "url": "big/AlamaniredeMdeMay-lescancansdusoir.JPG", "thumb": "thumbs/AlamaniredeMdeMay-lescancansdusoir.JPG" }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "root": "/galeries/",
+    "images": [
+        { "url": "paysages/big/Aubordduvieuxcanal0.jpg", "thumb": "paysages/thumbs/Aubordduvieuxcanal0.jpg" },
+        { "url": "fleurs et arbres/big/cerisier0.jpg", "thumb": "fleurs et arbres/thumbs/cerisier0.jpg" },
+        { "url": "paysages/big/chemincotier0.jpg", "thumb": "paysages/thumbs/chemincotier0.jpg" },
+        { "url": "paysages/big/Crete0.jpg", "thumb": "paysages/thumbs/Crete0.jpg" },
+        { "url": "fleurs et arbres/big/fleurs0.jpg", "thumb": "fleurs et arbres/thumbs/fleurs0.jpg" },
+        { "url": "portraits/big/Inspiration0.jpg", "thumb": "portraits/thumbs/Inspiration0.jpg" },
+        { "url": "paysages/big/Leksar0.jpg", "thumb": "paysages/thumbs/Leksar0.jpg" },
+        { "url": "fleurs et arbres/big/lesgroseilles0.jpg", "thumb": "fleurs et arbres/thumbs/lesgroseilles0.jpg" },
+        { "url": "scenes de vie/big/Lumiredusoir0.jpg", "thumb": "scenes de vie/thumbs/Lumiredusoir0.jpg" },
+        { "url": "paysages/big/malte0.jpg", "thumb": "paysages/thumbs/malte0.jpg" },
+        { "url": "fleurs et arbres/big/Mesnympheas0.jpg", "thumb": "fleurs et arbres/thumbs/Mesnympheas0.jpg" },
+        { "url": "paysages/big/Mont-Blanc.jpg", "thumb": "paysages/thumbs/Mont-Blanc.jpg" },
+        { "url": "animaux/big/Panure_a_moustache0.jpg", "thumb": "animaux/thumbs/Panure_a_moustache0.jpg" },
+        { "url": "fleurs et arbres/big/rosetremiere0.jpg", "thumb": "fleurs et arbres/thumbs/rosetremiere0.jpg" },
+        { "url": "portraits/big/soweto0.jpg", "thumb": "portraits/thumbs/soweto0.jpg" },
+        { "url": "fleurs et arbres/big/ventdusud0.jpg", "thumb": "fleurs et arbres/thumbs/ventdusud0.jpg" }
+    ]
+}

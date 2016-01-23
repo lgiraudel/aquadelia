@@ -1,0 +1,33 @@
+{
+    "root": "/galeries/fleurs et arbres/",
+    "images": [
+        { "url": "big/Auborddumonde0.jpg", "thumb": "thumbs/Auborddumonde0.jpg" },
+        { "url": "big/Bientotfanee.JPG", "thumb": "thumbs/Bientotfanee.JPG" },
+        { "url": "big/Coquelicots0.jpg", "thumb": "thumbs/Coquelicots0.jpg" },
+        { "url": "big/Danslalumieredumatin0.jpg", "thumb": "thumbs/Danslalumieredumatin0.jpg" },
+        { "url": "big/Danslepotager.JPG", "thumb": "thumbs/Danslepotager.JPG" },
+        { "url": "big/Empreintes.jpg", "thumb": "thumbs/Empreintes.jpg" },
+        { "url": "big/Guirlande0.jpg", "thumb": "thumbs/Guirlande0.jpg" },
+        { "url": "big/Lautomneenforet.JPG", "thumb": "thumbs/Lautomneenforet.JPG" },
+        { "url": "big/Le_bouquet_d_hortensias0.jpg", "thumb": "thumbs/Le_bouquet_d_hortensias0.jpg" },
+        { "url": "big/Lebouquetdiris.JPG", "thumb": "thumbs/Lebouquetdiris.JPG" },
+        { "url": "big/Lesfeuxdelautomne0.jpg", "thumb": "thumbs/Lesfeuxdelautomne0.jpg" },
+        { "url": "big/Lesolitaire.JPG", "thumb": "thumbs/Lesolitaire.JPG" },
+        { "url": "big/Lespetitssoleil.JPG", "thumb": "thumbs/Lespetitssoleil.JPG" },
+        { "url": "big/Lumiresdautomne.JPG", "thumb": "thumbs/Lumiresdautomne.JPG" },
+        { "url": "big/Mesnympheas0.jpg", "thumb": "thumbs/Mesnympheas0.jpg" },
+        { "url": "big/Novembreenfete0.jpg", "thumb": "thumbs/Novembreenfete0.jpg" },
+        { "url": "big/Piedsdansleau.JPG", "thumb": "thumbs/Piedsdansleau.JPG" },
+        { "url": "big/Printemps0.jpg", "thumb": "thumbs/Printemps0.jpg" },
+        { "url": "big/Promenons-nous1.jpg", "thumb": "thumbs/Promenons-nous1.jpg" },
+        { "url": "big/Sihaut.JPG", "thumb": "thumbs/Sihaut.JPG" },
+        { "url": "big/cerisier0.jpg", "thumb": "thumbs/cerisier0.jpg" },
+        { "url": "big/fleur.JPG", "thumb": "thumbs/fleur.JPG" },
+        { "url": "big/fleurs0.jpg", "thumb": "thumbs/fleurs0.jpg" },
+        { "url": "big/lesgroseilles0.jpg", "thumb": "thumbs/lesgroseilles0.jpg" },
+        { "url": "big/matindete0.jpg", "thumb": "thumbs/matindete0.jpg" },
+        { "url": "big/rosesblanches.JPG", "thumb": "thumbs/rosesblanches.JPG" },
+        { "url": "big/rosetremiere0.jpg", "thumb": "thumbs/rosetremiere0.jpg" },
+        { "url": "big/ventdusud0.jpg", "thumb": "thumbs/ventdusud0.jpg" }
+    ]
+}

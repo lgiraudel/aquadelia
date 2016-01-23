@@ -1,0 +1,76 @@
+{
+    "galeries": [
+        {
+            "dir": "animaux",
+            "title": "Animaux",
+            "description": "à cornes, à fourrure, à laine, à poil... Mon petit zoo personnel !",
+            "thumb": "animaux/thumbs/lecurieux.JPG"
+        },
+        {
+            "dir": "fleurs et arbres",
+            "title": "Fleurs et Arbres",
+            "description": "Capter l'éphémère de mon jardin ou d'ailleurs",
+            "thumb": "fleurs et arbres/thumbs/Lespetitssoleil.JPG"
+        },
+        {
+            "dir": "musique et danse",
+            "title": "Musique et Danse",
+            "description": "Indissociables et indispensables",
+            "thumb": "musique et danse/thumbs/Lhymneladanse.JPG"
+        },
+        {
+            "dir": "natures mortes",
+            "title": "Natures Mortes",
+            "description": "Pour revenir de temps en temps aux choses simples",
+            "thumb": "natures mortes/thumbs/lesfugueuses.JPG"
+        },
+        {
+            "dir": "nus",
+            "title": "Nus",
+            "description": "Le corps. Si familier, mais si difficile à capter",
+            "thumb": "nus/thumbs/Lasieste.JPG"
+        },
+        {
+            "dir": "portraits",
+            "title": "Portraits",
+            "description": "Pour la puissance des regards",
+            "thumb": "portraits/thumbs/Leregardtargui-2.JPG"
+        },
+        {
+            "dir": "scenes de vie",
+            "title": "Scènes de vie",
+            "description": "Instantanés captés ici ou là",
+            "thumb": "scenes de vie/thumbs/departaumarche0.jpg"
+        },
+        {
+            "dir": "paysages",
+            "title": "Paysages",
+            "description": "Lointains ou très proches, au hasard des découvertes",
+            "thumb": "paysages/thumbs/LavalleeduGiffre.jpg"
+        },
+        {
+            "dir": "marines",
+            "title": "Marines",
+            "description": "Parce que les racines bretonnes ne se perdent pas",
+            "thumb": "marines/thumbs/surlavague.JPG"
+        },
+        {
+            "dir": "divers",
+            "title": "Fantaisies",
+            "description": "Des créations, des mélanges de techniques, des rêves...",
+            "thumb": "divers/thumbs/lespassantes.JPG"
+        },
+        {
+            "dir": "reproductions",
+            "title": "Reproductions",
+            "description": "A la manière des peintres, aquarellistes ou pas, qui m'ont guidée sans le savoir",
+            "thumb": "reproductions/thumbs/AlamanieredeJuliaCassels-allonschercherleau0.jpg"
+        },
+        {
+            "dir": "nouveautes",
+            "title": "Nouveautés",
+            "description": "Les dernières aquarelles...",
+            "thumb": "fleurs et arbres/thumbs/fleurs0.jpg"
+        }
+    ]
+}

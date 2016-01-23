@@ -1,0 +1,398 @@
+/* FT template.css CSS file*/
+* {padding: 0; margin: 0;}
+body {
+  margin: 0px;
+  padding: 0px;
+  background: #333333 url(../images/greybg.jpg) repeat-x 0 68px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #ffffff;
+  text-align:center;
+  height:100%;
+}
+#header{
+  height: 63px;
+}
+#wrap {
+  background: #ffffff  url(../images/contentbg.jpg) repeat-x 0 0;
+  overflow: hidden;
+  color: #333333;
+  border: 5px solid  #34cbcc;
+  height:auto !important; /* real browsers */
+  height:100%; /* IE6: treaded as min-height*/
+  min-height:100%; /* real browsers */
+}
+#container {
+  width: 800px;
+  margin: 0 auto;
+}
+div.topline {
+  width: 100%;
+  height: 30px;
+  text-align: right;
+  overflow: hidden;
+}
+div.logo {
+  width: 100%;
+  top:100px;
+  text-align: center;
+/*  background: url(../images/logo.jpg);*/
+  overflow: hidden;
+}
+
+#left {
+  width: 750px;
+  margin: 10px 10px 0px 10px;
+  background: url(../images/leftbg.gif);
+  float:left;
+  overflow: hidden;
+  height: 200px;
+  color: #FFFFFF;
+  display:inline;
+  text-align:left;
+}
+#left div.moduletable_menu, #left div.moduletable {
+  width: 210px;
+  margin: 10px 20px 20px 20px;
+  float: left;
+  overflow: hidden;
+  display:inline;
+}
+#content1 {
+  width: 720px;
+  float: left;
+  padding: 35px 30px 30px 30px;
+}
+#content2 {
+  width: 460px;
+  float: left;
+  padding: 35px 30px 30px 30px;
+  overflow: hidden;
+}
+#right {
+  width: 220px;
+  float: right;
+  overflow: hidden;
+  margin-right: 30px;
+  margin-top: 30px;
+  display:inline;
+}
+#footer {
+  clear:both;
+  text-align:center;
+  font-size:10px;
+  color: #ffffff;
+  padding: 10px;
+}
+a {
+  color: #34cbcc;
+}
+a:hover {
+  color: #166677;
+}
+#left a {
+  color: #ffffff;
+}
+#left a:hover {
+  color: #336600;
+}
+
+div.navbar ul {
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  color: #34cbcc;
+}
+div.navbar ul li
+{
+  display:inline;
+  line-height: 33px;
+}
+div.navbar ul li a
+{
+  color: #34cbcc;
+  padding: 10px 15px 5px 15px;
+  text-decoration:none;
+  background: #336600 url(../images/buttonbg2.png);
+  margin:0px;
+  margin-right:3px;
+  border-bottom: 3px solid #005500;
+}
+
+div.navbar ul li a:hover
+{
+  color: #ffffff;
+}
+
+div.navbar ul li a#active_menu-nav {
+  background: #34cbcc url(../images/buttonbg.png);
+  color:#FFFFFF;
+  border-bottom: 0px;
+  padding-bottom:8px;
+}
+div.moduletable_menu ul {
+  display: block;
+  margin: 0;
+  width: 170px;
+  text-align: left;
+  padding: 15px;
+}
+div.moduletable_menu ul li
+{
+  list-style-type: none;
+  font-weight: bold;
+}
+div.moduletable_menu ul li a
+{
+  display:block;
+  height: 20px;
+  width: 140px;
+  text-decoration: none;
+  padding: 0px;
+  margin: 1px;
+}
+
+h1, h2, h3, h4 {
+  text-align:left;
+  color: #34cbcc;
+  padding: 0px;
+  margin:50px 0px 0px 0px;
+  font-size: 18px;
+}
+#left h1, #left h2, #left h3, #eft h4 {
+  text-align:left;
+  color: #FFFFFF;
+  padding: 0px;
+  margin:0px;
+ font-size: 18px;
+}
+
+form.login {
+  margin: 0px;
+  padding: 5px;
+  text-align:left;
+}
+form.login  p
+{
+  clear: both;
+}
+form.login input.button, input.button, form.poll input.button
+{
+        color: #ffffff;
+        display: block;
+        font-weight: bold;
+        margin: 10px 40px 10px 40px;
+        padding: 3px;
+        border: solid 1px #ffffff;
+        width: 80px;
+        clear:both;
+}
+form.login input.button:hover, input.button:hover
+{
+        color: #E47833;
+        border: solid 1px #E47833;
+}
+form.login fieldset{
+  border: 0px;
+  margin: 0;
+  padding: 5px;
+  width:100%;
+ text-align:right;
+}
+form.login input.checkbox
+{
+  background: none;
+  float: left;
+  margin: 5px 5px 0px 5px;
+  padding: 0px;
+  width: 20px;
+}
+form.login label
+{
+  padding: 5px;
+  width: 50%;
+}
+input
+{
+   background: transparent;
+   border: solid 1px;
+   width: 75px;
+   margin: 5px 5px 0px 5px;
+   padding: 0px;
+}
+select
+{
+   background: transparent;
+   border: solid 1px #fff;
+   margin: 5px 5px 0px 5px;
+   padding: 0px;
+   text-align:center;
+}
+form.login label.remember
+{
+        float: left;
+        margin: 0px;
+        padding: 5px;
+}
+form.login p {
+  margin: 0px 0px 10px 0px;
+  padding: 5px;
+}
+div.poll {
+  text-align: left;
+}
+form.poll {
+  text-align: left;
+  padding: 0;
+  margin: 0 5px 0 5px;
+}
+
+form.poll fieldset
+{
+        border: 1px solid #fff;
+        margin: 0 0 0px 0;
+        padding: 10px 0 10px 0;
+}
+form.poll input
+{
+   width: 20px;
+   margin: 0px 0 0 20px;
+   padding: 3px;
+   border: 0;
+}
+table.pollstableborder {
+  width: 100%;
+}
+table.pollstableborder td.td_1 {
+  width: 10%;
+}
+table.pollstableborder td.td_2 {
+  width: 10%;
+}
+table.pollstableborder td.td_3 {
+  width: 80%;
+}
+a img {
+  border: 0px;
+}
+p.buttonheading, p.iteminfo {
+  text-align: right;
+  color: #34cbcc;
+}
+p.iteminfo {
+  text-align: center;
+  color: #34cbcc;
+  font-size: 10px;
+}
+p {
+  text-align: justify;
+}
+p.counter, span.pagenav {
+  text-align: center;
+  color: #34cbcc;
+}
+ul, table {
+  text-align: left;
+}
+
+/* remository specific stuff */
+#remositorycontainerlist h3, #remositoryfilelisting h3 a, #remositorycontainerlist h3 a, #remositoryfilelisting h3 {
+  color: #34cbcc;
+  width: 100%;
+  clear:both;
+  margin:20px;
+}
+
+.remositoryonethumb {
+  width: 30%;
+  float:left;
+  margin:0px;
+}
+.remositoryfilesummary {
+  width: 70%;
+  float:right;
+  margin:0;
+}
+.remositoryfilesummary dd {
+  width: 50%;
+  float: right;
+}
+.remositoryfilesummary dt {
+  width: 45%;
+}
+.remositoryfilesummary div {
+  clear:both;
+}
+.remositoryfileblock {
+  overflow:hidden;
+}
+/* end remository stuff */
+
+.contact_email {
+  text-align: left;
+}
+.contact_email label {
+  float:left;
+  width: 150px;
+}
+.contact_email label.contact_textmsg, .contact_email label.contact_email_copy {
+  width: 380px;
+}
+.contact_email input {
+  margin:3px;
+}
+.contact_email input#contact_email_copy {
+  margin:3px;
+  padding:0px;
+  width:15px;
+  float:left;
+}
+.contact_email input.inputbox {
+  width:200px;
+}
+
+.text-center {
+    text-align: center;
+}
+#right {
+    text-align: justify;
+    font-family: arial,helvetica,sans-serif;
+    color: #008080;
+    font-size: 11pt;
+}
+.galerie-list {
+    display: flex;
+    margin-top: 2em;
+    list-style: none;
+    flex-wrap: wrap;
+}
+.galerie-list .galerie {
+    max-width: 25%;
+    text-align: center;
+    padding: 1em 2em;
+    box-sizing: border-box;
+}
+.galerie-list .galerie .clickable-area {
+    display: block;
+    position: relative;
+}
+.galerie-list .galerie .thumb {
+    width: 100%;
+    margin: auto;
+}
+.galerie-list .galerie .title {
+    display: block;
+    text-align: center;
+    font-size: 1.3em;
+    background-color: rgba(1,1,1,.5);
+    text-decoration: none;
+    color: white;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+}
+.galerie-list .galerie .description {
+    margin-top: 1em;
+}
