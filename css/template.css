@@ -14,7 +14,7 @@ body {
   height: 63px;
 }
 #wrap {
-  background: #ffffff  url(../images/contentbg.jpg) repeat-x 0 0;
+  background: #fff;
   overflow: hidden;
   color: #333333;
   border: 5px solid  #34cbcc;
