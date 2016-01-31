@@ -44,23 +44,6 @@
     <script src="https://code.jquery.com/jquery-2.2.0.min.js" charset="utf-8"></script>
     <script src="../js/jquery.easing.js" charset="utf-8"></script>
     <script src="../js/camera.js" charset="utf-8"></script>
-    <script>
-        $(function() {
-            $.get('../galeries/infos.json', function(json) {
-                var galeriesHtml = '';
-                $(json.galeries).each(function(i, galerieInfo) {
-                    galeriesHtml += '<li class="galerie">' +
-                        '<a href="galerie.html?galerie=' + galerieInfo.dir + '" class="clickable-area">' +
-                        '<img src="../galeries/' + galerieInfo.thumb + '" class="thumb"/>' +
-                        '<div class="title">' + galerieInfo.title + '</div>' +
-                        '</a>' +
-                        '<div class="description">' + galerieInfo.description + '</div>' +
-                    '</li>';
-                });
-
-                $('.galerie-list').html(galeriesHtml);
-            });
-        })
-    </script>
+    <script src="../js/galleries.js" charset="utf-8"></script>
 </body>
 </html>
