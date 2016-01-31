@@ -365,6 +365,7 @@ ul, table {
     margin-top: 2em;
     list-style: none;
     flex-wrap: wrap;
+    justify-content: space-around;
 }
 .galerie-list .galerie {
     max-width: 25%;
@@ -395,4 +396,8 @@ ul, table {
 }
 .galerie-list .galerie .description {
     margin-top: 1em;
+}
+
+.links .galerie-list .galerie {
+    max-width: 33%;
 }
