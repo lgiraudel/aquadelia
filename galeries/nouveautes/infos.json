@@ -1,8 +1,8 @@
 {
-    "root": "../galeries/nouveautés/",
+    "root": "../galeries/nouveautes/",
     "images": [
-        { "url": "big/Mongol.JPG", "thumb": "thumbs/Mongol.JPG", "caption": "NARANBAATAR - 2015" },
-        { "url": "big/Soweto.JPG", "thumb": "thumbs/Soweto.JPG", "caption": "SOWETO GOSPEL CHOIR - 2015" }
-		{ "url": "big/Renard.JPG", "thumb": "thumbs/Renard.JPG", "caption": "GOUPIL - 2015" },
+        { "url": "big/Mongol.jpg", "thumb": "thumbs/Mongol.jpg", "caption": "NARANBAATAR - 2015" },
+        { "url": "big/soweto.jpg", "thumb": "thumbs/soweto.jpg", "caption": "SOWETO GOSPEL CHOIR - 2015" },
+		{ "url": "big/renard.jpg", "thumb": "thumbs/renard.jpg", "caption": "GOUPIL - 2015" }
     ]
 }

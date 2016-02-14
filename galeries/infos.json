@@ -1,6 +1,12 @@
 {
     "galeries": [
         {
+            "dir": "nouveautes",
+            "title": "Nouveautés",
+            "description": "Les dernières aquarelles...",
+            "thumb": "fleurs et arbres/thumbs/fleurs0.jpg"
+        },
+		{
             "dir": "animaux",
             "title": "Animaux",
             "description": "à cornes, à fourrure, à laine, à poil... Mon petit zoo personnel !",
@@ -65,12 +71,6 @@
             "title": "Reproductions",
             "description": "A la manière des peintres, aquarellistes ou pas, qui m'ont guidée sans le savoir",
             "thumb": "reproductions/thumbs/AlamanieredeJuliaCassels-allonschercherleau0.jpg"
-        },
-        {
-            "dir": "nouveautes",
-            "title": "Nouveautés",
-            "description": "Les dernières aquarelles...",
-            "thumb": "fleurs et arbres/thumbs/fleurs0.jpg"
         }
     ]
 }
