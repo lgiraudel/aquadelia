@@ -2,7 +2,7 @@
     "root": "../galeries/musique et danse/",
     "images": [
         { "url": "big/valse.JPG", "thumb": "thumbs/valse.JPG", "caption": "VALSE - 2008" },
-        { "url": "big/flamenco.JPG", "thumb": "thumbs/flamenco.JPG", "caption": "FLAMENCO - 2009" },
+        { "url": "big/flamenco.jpg", "thumb": "thumbs/flamenco.jpg", "caption": "FLAMENCO - 2009" },
         { "url": "big/Feteauvillage2.jpg", "thumb": "thumbs/Feteauvillage2.jpg", "caption": "FETE AU VILLAGE - 2011" },
         { "url": "big/Ladansedufeu20.jpg", "thumb": "thumbs/Ladansedufeu20.jpg", "caption": "LA DANSE DU FEU - 2011" }
     ]
