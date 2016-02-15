@@ -10,19 +10,19 @@
             "dir": "animaux",
             "title": "Animaux",
             "description": "à cornes, à fourrure, à laine, à poil... Mon petit zoo personnel !",
-            "thumb": "animaux/thumbs/PourKessel0.JPG"
+            "thumb": "animaux/thumbs/PourKessel0.jpg"
         },
         {
             "dir": "fleurs et arbres",
             "title": "Fleurs et Arbres",
             "description": "Capter l'éphémère de mon jardin ou d'ailleurs",
-            "thumb": "fleurs et arbres/thumbs/Danslalumieredumatin0.JPG"
+            "thumb": "fleurs et arbres/thumbs/Danslalumieredumatin0.jpg"
         },
         {
             "dir": "musique et danse",
             "title": "Musique et Danse",
             "description": "Indissociables et indispensables",
-            "thumb": "musique et danse/thumbs/Ladansedufeu20.JPG"
+            "thumb": "musique et danse/thumbs/Ladansedufeu20.jpg"
         },
         {
             "dir": "natures mortes",
@@ -34,7 +34,7 @@
             "dir": "nus",
             "title": "Nus",
             "description": "Le corps. Si familier, mais si difficile à capter",
-            "thumb": "nus/thumbs/EVE2.JPG"
+            "thumb": "nus/thumbs/EVE2.jpg"
         },
         {
             "dir": "portraits",
@@ -58,7 +58,7 @@
             "dir": "marines",
             "title": "Marines",
             "description": "Parce que les racines bretonnes ne se perdent pas",
-            "thumb": "marines/thumbs/spot0.JPG"
+            "thumb": "marines/thumbs/spot0.jpg"
         },
         {
             "dir": "divers",
