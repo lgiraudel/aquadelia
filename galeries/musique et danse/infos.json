@@ -1,16 +1,9 @@
 {
     "root": "../galeries/musique et danse/",
     "images": [
-        { "url": "big/Balletrusse.JPG", "thumb": "thumbs/Balletrusse.JPG" },
-        { "url": "big/Feteauvillage2.jpg", "thumb": "thumbs/Feteauvillage2.jpg" },
-        { "url": "big/Hip-hop.JPG", "thumb": "thumbs/Hip-hop.JPG" },
-        { "url": "big/Ladansedufeu20.jpg", "thumb": "thumbs/Ladansedufeu20.jpg" },
-        { "url": "big/Lapose.JPG", "thumb": "thumbs/Lapose.JPG" },
-        { "url": "big/Lejazzman.JPG", "thumb": "thumbs/Lejazzman.JPG" },
-        { "url": "big/Lesoleilflamenca.JPG", "thumb": "thumbs/Lesoleilflamenca.JPG" },
-        { "url": "big/Lhymneladanse.JPG", "thumb": "thumbs/Lhymneladanse.JPG" },
-        { "url": "big/concerto.jpg", "thumb": "thumbs/concerto.jpg" },
-        { "url": "big/flamenca.JPG", "thumb": "thumbs/flamenca.JPG" },
-        { "url": "big/valse.JPG", "thumb": "thumbs/valse.JPG" }
+        { "url": "big/valse.JPG", "thumb": "thumbs/valse.JPG", "caption": "VALSE - 2008" },
+        { "url": "big/flamenco.JPG", "thumb": "thumbs/flamenco.JPG", "caption": "FLAMENCO - 2009" },
+        { "url": "big/Feteauvillage2.jpg", "thumb": "thumbs/Feteauvillage2.jpg", "caption": "FETE AU VILLAGE - 2011" },
+        { "url": "big/Ladansedufeu20.jpg", "thumb": "thumbs/Ladansedufeu20.jpg", "caption": "LA DANSE DU FEU - 2011" }
     ]
 }

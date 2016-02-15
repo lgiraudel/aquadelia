@@ -1,8 +1,17 @@
 {
     "root": "../galeries/nouveautes/",
     "images": [
-        { "url": "big/Mongol.jpg", "thumb": "thumbs/Mongol.jpg", "caption": "NARANBAATAR - 2015" },
+		{ "url": "big/renard.jpg", "thumb": "thumbs/renard.jpg", "caption": "GOUPIL - 2015" },
+		{ "url": "big/Tuapewa.jpg", "thumb": "thumbs/Tuapewa.jpg", "caption": "TUAPEWA - 2015" },
+        { "url": "big/mesnympheas.jpg", "thumb": "thumbs/mesnympheas.jpg", "caption": "MES NYMPHEAS - 2015" },
+        { "url": "big/malte0.jpg", "thumb": "thumbs/malte0.jpg", "caption": "MALTE - 2015" },
+		{ "url": "big/Guirlande.jpg", "thumb": "thumbs/Guirlande.jpg", "caption": "Guirlande - 2015" },
+        { "url": "big/Panure_a_moustache0.jpg", "thumb": "thumbs/Panure_a_moustache0.jpg", "caption": "LE PANURE - 2015" },
+        { "url": "big/rosetremiere0.jpg", "thumb": "thumbs/rosetremiere0.jpg", "caption": "ROSE TREMIERE - 2015" },
+        { "url": "big/Lesgroseilles.jpg", "thumb": "thumbs/Lesgroseilles.jpg", "caption": "LES GROSEILLES - 2015" },
+		{ "url": "big/Inspiration.jpg", "thumb": "thumbs/Inspiration.jpg", "caption": "INSPIRATION - 2015" },
+		{ "url": "big/Lumièredusoir.jpg", "thumb": "thumbs/Lumièredusoir.jpg", "caption": "LUMIERE DU SOIR - 2015" },
         { "url": "big/soweto.jpg", "thumb": "thumbs/soweto.jpg", "caption": "SOWETO GOSPEL CHOIR - 2015" },
-		{ "url": "big/renard.jpg", "thumb": "thumbs/renard.jpg", "caption": "GOUPIL - 2015" }
+        { "url": "big/Mongol.jpg", "thumb": "thumbs/Mongol.jpg", "caption": "NARANBAATAR - 2016" }
     ]
 }

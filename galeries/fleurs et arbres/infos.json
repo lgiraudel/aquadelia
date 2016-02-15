@@ -24,10 +24,11 @@
         { "url": "big/cerisier0.jpg", "thumb": "thumbs/cerisier0.jpg", "caption": "BRISE DE PRINTEMPS - 2015" },
         { "url": "big/fleur.JPG", "thumb": "thumbs/fleur.JPG", "caption": "EN PLEIN COEUR - 2008" },
         { "url": "big/fleurs0.jpg", "thumb": "thumbs/fleurs0.jpg", "caption": "LE POIRIER DE MON VOISIN - 2015" },
-        { "url": "big/lesgroseilles0.jpg", "thumb": "thumbs/lesgroseilles0.jpg", "caption": "LES GROSEILLES - 2015" },
+        { "url": "big/Lesgroseilles.jpg", "thumb": "thumbs/Lesgroseilles.jpg", "caption": "LES GROSEILLES - 2015" },
         { "url": "big/matindete0.jpg", "thumb": "thumbs/matindete0.jpg", "caption": "MATIN D'ETE - 2014" },
         { "url": "big/rosesblanches.JPG", "thumb": "thumbs/rosesblanches.JPG", "caption": "ROSES BLANCHES - 2008" },
         { "url": "big/rosetremiere0.jpg", "thumb": "thumbs/rosetremiere0.jpg", "caption": "ROSE TREMIERE - 2015" },
-        { "url": "big/ventdusud0.jpg", "thumb": "thumbs/ventdusud0.jpg", "caption": "VENT DU SUD - 2015" }
+        { "url": "big/ventdusud0.jpg", "thumb": "thumbs/ventdusud0.jpg", "caption": "VENT DU SUD - 2015" },
+        { "url": "big/champrouge.jpg", "thumb": "thumbs/champrouge.jpg", "caption": "CHAMP ROUGE - 2015" }
     ]
 }
