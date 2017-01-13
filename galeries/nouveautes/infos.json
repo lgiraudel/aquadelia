@@ -2,7 +2,7 @@
     "root": "../galeries/nouveautes/",
     "images": [
         { "url": "big/soweto.jpg", "thumb": "thumbs/soweto.jpg", "caption": "SOWETO GOSPEL CHOIR - 2015" },
-        { "url": "big/Mongol.jpg", "thumb": "thumbs/Mongol.jpg", "caption": "NARANBAATAR - 2016" },
+        { "url": "big/naranbaatar.jpg", "thumb": "thumbs/naranbaatar.jpg", "caption": "NARANBAATAR - 2016" },
         { "url": "big/petitemaison.jpg", "thumb": "thumbs/petitemaison.jpg", "caption": "LA PETITE MAISON - 2016" },
         { "url": "big/muleta.jpg", "thumb": "thumbs/muleta.jpg", "caption": "FAENA DE MULETA - 2016" },
         { "url": "big/grainsdevie.jpg", "thumb": "thumbs/grainsdevie.jpg", "caption": "GRAINS DE VIE - 2016" },
@@ -10,6 +10,11 @@
         { "url": "big/griffith.jpg", "thumb": "thumbs/griffith.jpg", "caption": "GRIFFITH LE FAUVE - 2016" },
         { "url": "big/renard.jpg", "thumb": "thumbs/renard.jpg", "caption": "RENARD - 2015" },
         { "url": "big/jamsession.jpg", "thumb": "thumbs/jamsession.jpg", "caption": "JAM SESSION - 2016" },
+        { "url": "big/vagues.jpg", "thumb": "thumbs/vagues.jpg", "caption": "VAGUES d'après Y. SUTTER - 2016" },
+        { "url": "big/calin.jpg", "thumb": "thumbs/calin.jpg", "caption": "CALIN - 2016" },
+        { "url": "big/ecureuil.jpg", "thumb": "thumbs/ecureuil.jpg", "caption": "CURIEUX - 2016" },
+        { "url": "big/hiver.jpg", "thumb": "thumbs/hiver.jpg", "caption": "HIVER - 2016" },
+        { "url": "big/alpage.jpg", "thumb": "thumbs/alpage.jpg", "caption": "ALPAGE - 2016" },
         { "url": "big/happyboy.jpg", "thumb": "thumbs/happyboy.jpg", "caption": "HAPPY BOY - 2016" }
     ]
 }

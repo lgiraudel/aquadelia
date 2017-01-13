@@ -4,6 +4,8 @@
         { "url": "big/valse.JPG", "thumb": "thumbs/valse.JPG", "caption": "VALSE - 2008" },
         { "url": "big/flamenco.jpg", "thumb": "thumbs/flamenco.jpg", "caption": "FLAMENCO - 2009" },
         { "url": "big/Feteauvillage2.jpg", "thumb": "thumbs/Feteauvillage2.jpg", "caption": "FETE AU VILLAGE - 2011" },
-        { "url": "big/Ladansedufeu20.jpg", "thumb": "thumbs/Ladansedufeu20.jpg", "caption": "LA DANSE DU FEU - 2011" }
-    ]
+        { "url": "big/Ladansedufeu20.jpg", "thumb": "thumbs/Ladansedufeu20.jpg", "caption": "LA DANSE DU FEU - 2011" },
+         { "url": "big/soweto.jpg", "thumb": "thumbs/soweto.jpg", "caption": "SOWETO GOSPEL CHOIR - 2015" },
+        { "url": "big/jamsession.jpg", "thumb": "thumbs/jamsession.jpg", "caption": "JAM SESSION - 2016" }
+   ]
 }

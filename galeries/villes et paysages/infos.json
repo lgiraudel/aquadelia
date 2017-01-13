@@ -1,5 +1,5 @@
 {
-    "root": "../galeries/paysages/",
+    "root": "../galeries/villes et paysages/",
     "images": [
         { "url": "big/cascade.JPG", "thumb": "thumbs/cascade.JPG", "caption": "CASCADE - 2007" },
 		{ "url": "big/lesoir0.JPG", "thumb": "thumbs/lesoir0.JPG", "caption": "COUCHER DE SOLEIL DUR LA COTE - 2008" },
@@ -25,6 +25,9 @@
         { "url": "big/malte0.jpg", "thumb": "thumbs/malte0.jpg", "caption": "MALTE - 2015" },
         { "url": "big/matindhiver0.JPG", "thumb": "thumbs/matindhiver0.JPG", "caption": "MATIN D'HIVER - 2015" },
         { "url": "big/Mont-Blanc.jpg", "thumb": "thumbs/Mont-Blanc.jpg", "caption": "MONT-BLANC - 2015" },
-        { "url": "big/Crete0.jpg", "thumb": "thumbs/Crete0.jpg", "caption": "CRETE - 2015" }
+        { "url": "big/Crete0.jpg", "thumb": "thumbs/Crete0.jpg", "caption": "CRETE - 2015" },
+        { "url": "big/hiver.jpg", "thumb": "thumbs/hiver.jpg", "caption": "HIVER - 2016" },
+        { "url": "big/alpage.jpg", "thumb": "thumbs/alpage.jpg", "caption": "ALPAGE - 2016" },
+        { "url": "big/petitemaison.jpg", "thumb": "thumbs/petitemaison.jpg", "caption": "LA PETITE MAISON - 2016" }
     ]
 }

@@ -20,6 +20,11 @@
         { "url": "big/Ravitaillementenvol.jpg", "thumb": "thumbs/Ravitaillementenvol.jpg", "caption": "RAVITAILLEMENT EN VOL - 2004" },
         { "url": "big/Rejoindrelameute0.jpg", "thumb": "thumbs/Rejoindrelameute0.jpg", "caption": "REJOINDRE LA MEUTE - 2011" },
         { "url": "big/Rouge-gorge0.jpg", "thumb": "thumbs/Rouge-gorge0.jpg", "caption": "ROUGE - GORGE - 2012" },
-        { "url": "big/tendresse0.jpg", "thumb": "thumbs/tendresse0.jpg", "caption": "TENDRESSE - 2013" }
+        { "url": "big/tendresse0.jpg", "thumb": "thumbs/tendresse0.jpg", "caption": "TENDRESSE - 2013" },
+        { "url": "big/chouette.jpg", "thumb": "thumbs/chouette.jpg", "caption": "LA PETITE CHOUETTE - 2016" },
+        { "url": "big/griffith.jpg", "thumb": "thumbs/griffith.jpg", "caption": "GRIFFITH LE FAUVE - 2016" },
+        { "url": "big/renard.jpg", "thumb": "thumbs/renard.jpg", "caption": "RENARD - 2015" },
+        { "url": "big/calin.jpg", "thumb": "thumbs/calin.jpg", "caption": "CALIN - 2016" },
+        { "url": "big/ecureuil.jpg", "thumb": "thumbs/ecureuil.jpg", "caption": "CURIEUX - 2016" }
     ]
 }
