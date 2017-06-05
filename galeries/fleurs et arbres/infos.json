@@ -29,6 +29,8 @@
         { "url": "big/rosesblanches.JPG", "thumb": "thumbs/rosesblanches.JPG", "caption": "ROSES BLANCHES - 2008" },
         { "url": "big/rosetremiere0.jpg", "thumb": "thumbs/rosetremiere0.jpg", "caption": "ROSE TREMIERE - 2015" },
         { "url": "big/ventdusud0.jpg", "thumb": "thumbs/ventdusud0.jpg", "caption": "VENT DU SUD - 2015" },
-        { "url": "big/champrouge.jpg", "thumb": "thumbs/champrouge.jpg", "caption": "CHAMP ROUGE - 2015" }
+        { "url": "big/champrouge.jpg", "thumb": "thumbs/champrouge.jpg", "caption": "CHAMP ROUGE - 2015" },
+        { "url": "big/promesse.jpg", "thumb": "thumbs/promesse.jpg", "caption": "PROMESSE - 2017" },
+        { "url": "big/grappe.jpg", "thumb": "thumbs/grapppe.jpg", "caption": "GRAPPE - 2017" }
     ]
 }

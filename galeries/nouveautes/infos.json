@@ -15,6 +15,10 @@
         { "url": "big/ecureuil.jpg", "thumb": "thumbs/ecureuil.jpg", "caption": "CURIEUX - 2016" },
         { "url": "big/hiver.jpg", "thumb": "thumbs/hiver.jpg", "caption": "HIVER - 2016" },
         { "url": "big/alpage.jpg", "thumb": "thumbs/alpage.jpg", "caption": "ALPAGE - 2016" },
-        { "url": "big/happyboy.jpg", "thumb": "thumbs/happyboy.jpg", "caption": "HAPPY BOY - 2016" }
+        { "url": "big/happyboy.jpg", "thumb": "thumbs/happyboy.jpg", "caption": "HAPPY BOY - 2016" },
+        { "url": "big/kartapuss.jpg", "thumb": "thumbs/kartapuss.jpg", "caption": "KARTAPUSS - 2017" },
+        { "url": "big/placide.jpg", "thumb": "thumbs/placide.jpg", "caption": "PLACIDE - 2017" },
+        { "url": "big/promesse.jpg", "thumb": "thumbs/promesse.jpg", "caption": "PROMESSE - 2017" },
+        { "url": "big/grappe.jpg", "thumb": "thumbs/grappe.jpg", "caption": "GRAPPE - 2017" }
     ]
 }

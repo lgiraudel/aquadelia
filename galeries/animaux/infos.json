@@ -25,6 +25,8 @@
         { "url": "big/griffith.jpg", "thumb": "thumbs/griffith.jpg", "caption": "GRIFFITH LE FAUVE - 2016" },
         { "url": "big/renard.jpg", "thumb": "thumbs/renard.jpg", "caption": "RENARD - 2015" },
         { "url": "big/calin.jpg", "thumb": "thumbs/calin.jpg", "caption": "CALIN - 2016" },
-        { "url": "big/ecureuil.jpg", "thumb": "thumbs/ecureuil.jpg", "caption": "CURIEUX - 2016" }
+        { "url": "big/ecureuil.jpg", "thumb": "thumbs/ecureuil.jpg", "caption": "CURIEUX - 2016" },
+        { "url": "big/kartapuss.jpg", "thumb": "thumbs/kartapuss.jpg", "caption": "KARTAPUSS - 2017" },
+        { "url": "big/placide.jpg", "thumb": "thumbs/placide.jpg", "caption": "PLACIDE - 2017" }
     ]
 }
