@@ -28,6 +28,7 @@
         { "url": "big/Crete0.jpg", "thumb": "thumbs/Crete0.jpg", "caption": "CRETE - 2015" },
         { "url": "big/hiver.jpg", "thumb": "thumbs/hiver.jpg", "caption": "HIVER - 2016" },
         { "url": "big/alpage.jpg", "thumb": "thumbs/alpage.jpg", "caption": "ALPAGE - 2016" },
-        { "url": "big/petitemaison.jpg", "thumb": "thumbs/petitemaison.jpg", "caption": "LA PETITE MAISON - 2016" }
+        { "url": "big/petitemaison.jpg", "thumb": "thumbs/petitemaison.jpg", "caption": "LA PETITE MAISON - 2016" },
+        { "url": "big/skyline.jpg", "thumb": "thumbs/skyline.jpg", "caption": "SKYLINE - 2017" }
     ]
 }
