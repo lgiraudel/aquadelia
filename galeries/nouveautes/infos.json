@@ -17,6 +17,8 @@
         { "url": "big/grappe.jpg", "thumb": "thumbs/grappe.jpg", "caption": "GRAPPE - 2017" },
         { "url": "big/angelo.jpg", "thumb": "thumbs/angelo.jpg", "caption": "ANGELO - 2017" },
         { "url": "big/skyline.jpg", "thumb": "thumbs/skyline.jpg", "caption": "SKYLINE - 2017" },
-        { "url": "big/bellecollecte.jpg", "thumb": "thumbs/bellecollecte.jpg", "caption": "UNE BELLE COLLECTE - 2017" }
+        { "url": "big/bellecollecte.jpg", "thumb": "thumbs/bellecollecte.jpg", "caption": "UNE BELLE COLLECTE - 2017" },
+        { "url": "big/chalerouge.jpg", "thumb": "thumbs/chalerouge.jpg", "caption": "LE CHALE ROUGE - 2017" },
+        { "url": "big/liberte.jpg", "thumb": "thumbs/liberte.jpg", "caption": "LIBERTE - 2017" }
     ]
 }
