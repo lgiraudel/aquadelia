@@ -25,6 +25,7 @@
         { "url": "big/departaumarche0.jpg", "thumb": "thumbs/departaumarche0.jpg", "caption": "DEPART AU MARCHE - 2014" },
         { "url": "big/Abrivado0.jpg", "thumb": "thumbs/Abrivado0.jpg", "caption": "ABRIVADO - 2014" },
         { "url": "big/Course20.jpg", "thumb": "thumbs/Course20.jpg", "caption": "LA COURSE - 2014" },
-        { "url": "big/Lumiredusoir0.jpg", "thumb": "thumbs/Lumiredusoir0.jpg", "caption": "LUMIERE DU SOIR - 2015" }
+        { "url": "big/Lumiredusoir0.jpg", "thumb": "thumbs/Lumiredusoir0.jpg", "caption": "LUMIERE DU SOIR - 2015" },
+		{ "url": "big/feu.jpg", "thumb": "thumbs/feu.jpg", "caption": "FEU DE CAMP - 2018" }
     ]
 }

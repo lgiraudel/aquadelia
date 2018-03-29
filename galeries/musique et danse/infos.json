@@ -8,6 +8,7 @@
          { "url": "big/soweto.jpg", "thumb": "thumbs/soweto.jpg", "caption": "SOWETO GOSPEL CHOIR - 2015" },
         { "url": "big/jamsession.jpg", "thumb": "thumbs/jamsession.jpg", "caption": "JAM SESSION - 2016" },
         { "url": "big/chalerouge.jpg", "thumb": "thumbs/chalerouge.jpg", "caption": "LE CHALE ROUGE - 2017" },
+		{ "url": "big/lecondemusique.jpg", "thumb": "thumbs/lecondemusique.jpg", "caption": "LECON DE MUSIQUE - 2017" },
         { "url": "big/liberte.jpg", "thumb": "thumbs/liberte.jpg", "caption": "LIBERTE - 2017" }
    ]
 }

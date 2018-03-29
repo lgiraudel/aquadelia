@@ -1,25 +1,22 @@
 {
     "root": "../galeries/nouveautes/",
     "images": [
-        { "url": "big/naranbaatar.jpg", "thumb": "thumbs/naranbaatar.jpg", "caption": "NARANBAATAR - 2016" },
-        { "url": "big/muleta.jpg", "thumb": "thumbs/muleta.jpg", "caption": "FAENA DE MULETA - 2016" },
-        { "url": "big/grainsdevie.jpg", "thumb": "thumbs/grainsdevie.jpg", "caption": "GRAINS DE VIE - 2016" },
-        { "url": "big/chouette.jpg", "thumb": "thumbs/chouette.jpg", "caption": "LA PETITE CHOUETTE - 2016" },
-        { "url": "big/griffith.jpg", "thumb": "thumbs/griffith.jpg", "caption": "GRIFFITH LE FAUVE - 2016" },
-        { "url": "big/jamsession.jpg", "thumb": "thumbs/jamsession.jpg", "caption": "JAM SESSION - 2016" },
-        { "url": "big/ecureuil.jpg", "thumb": "thumbs/ecureuil.jpg", "caption": "CURIEUX - 2016" },
-        { "url": "big/hiver.jpg", "thumb": "thumbs/hiver.jpg", "caption": "HIVER - 2016" },
-        { "url": "big/alpage.jpg", "thumb": "thumbs/alpage.jpg", "caption": "ALPAGE - 2016" },
-        { "url": "big/happyboy.jpg", "thumb": "thumbs/happyboy.jpg", "caption": "HAPPY BOY - 2016" },
         { "url": "big/kartapuss.jpg", "thumb": "thumbs/kartapuss.jpg", "caption": "KARTAPUSS - 2017" },
         { "url": "big/placide.jpg", "thumb": "thumbs/placide.jpg", "caption": "PLACIDE - 2017" },
         { "url": "big/promesse.jpg", "thumb": "thumbs/promesse.jpg", "caption": "PROMESSE - 2017" },
         { "url": "big/grappe.jpg", "thumb": "thumbs/grappe.jpg", "caption": "GRAPPE - 2017" },
         { "url": "big/angelo.jpg", "thumb": "thumbs/angelo.jpg", "caption": "ANGELO - 2017" },
+        { "url": "big/ecureuil.jpg", "thumb": "thumbs/ecureuil.jpg", "caption": "SURPRIS - 2017" },
         { "url": "big/skyline.jpg", "thumb": "thumbs/skyline.jpg", "caption": "SKYLINE - 2017" },
         { "url": "big/bellecollecte.jpg", "thumb": "thumbs/bellecollecte.jpg", "caption": "UNE BELLE COLLECTE - 2017" },
         { "url": "big/chalerouge.jpg", "thumb": "thumbs/chalerouge.jpg", "caption": "LE CHALE ROUGE - 2017" },
         { "url": "big/liberte.jpg", "thumb": "thumbs/liberte.jpg", "caption": "LIBERTE - 2017" },
-        { "url": "big/commeuneestampe.jpg", "thumb": "thumbs/commeuneestampe.jpg", "caption": "COMME UNE ESTAMPE... - 2017" }
+        { "url": "big/commeuneestampe.jpg", "thumb": "thumbs/commeuneestampe.jpg", "caption": "COMME UNE ESTAMPE... - 2017" },
+		{ "url": "big/lecondemusique.jpg", "thumb": "thumbs/lecondemusique.jpg", "caption": "LECON DE MUSIQUE - 2017" },
+		{ "url": "big/fruitsdautomne.jpg", "thumb": "thumbs/fruitsdautomne.jpg", "caption": "AUTOMNE - 2017" },
+		{ "url": "big/feu.jpg", "thumb": "thumbs/feu.jpg", "caption": "FEU DE CAMP - 2018" },
+		{ "url": "big/martin.jpg", "thumb": "thumbs/martin.jpg", "caption": "MARTIN LE PECHEUR - 2018" },
+		{ "url": "big/conversation.jpg", "thumb": "thumbs/conversation.jpg", "caption": "CONVERSATION - 2018" }
+
     ]
 }

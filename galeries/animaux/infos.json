@@ -27,6 +27,9 @@
         { "url": "big/calin.jpg", "thumb": "thumbs/calin.jpg", "caption": "CALIN - 2016" },
         { "url": "big/ecureuil.jpg", "thumb": "thumbs/ecureuil.jpg", "caption": "CURIEUX - 2016" },
         { "url": "big/kartapuss.jpg", "thumb": "thumbs/kartapuss.jpg", "caption": "KARTAPUSS - 2017" },
-        { "url": "big/placide.jpg", "thumb": "thumbs/placide.jpg", "caption": "PLACIDE - 2017" }
+        { "url": "big/placide.jpg", "thumb": "thumbs/placide.jpg", "caption": "PLACIDE - 2017" },
+		{ "url": "big/martin.jpg", "thumb": "thumbs/martin.jpg", "caption": "MARTIN LE PECHEUR - 2018" },
+		{ "url": "big/conversation.jpg", "thumb": "thumbs/conversation.jpg", "caption": "CONVERSATION - 2018" }
+
     ]
 }
