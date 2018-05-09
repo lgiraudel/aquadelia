@@ -16,7 +16,10 @@
 		{ "url": "big/fruitsdautomne.jpg", "thumb": "thumbs/fruitsdautomne.jpg", "caption": "AUTOMNE - 2017" },
 		{ "url": "big/feu.jpg", "thumb": "thumbs/feu.jpg", "caption": "FEU DE CAMP - 2018" },
 		{ "url": "big/martin.jpg", "thumb": "thumbs/martin.jpg", "caption": "MARTIN LE PECHEUR - 2018" },
-		{ "url": "big/conversation.jpg", "thumb": "thumbs/conversation.jpg", "caption": "CONVERSATION - 2018" }
+		{ "url": "big/conversation.jpg", "thumb": "thumbs/conversation.jpg", "caption": "CONVERSATION - 2018" },
+		{ "url": "big/glacier.jpg", "thumb": "thumbs/glacier.jpg", "caption": "GLACIER - 2018" },
+		{ "url": "big/lattente.jpg", "thumb": "thumbs/lattente.jpg", "caption": "L'ATTENTE - 2018" },
+		{ "url": "big/premiersfrimas.jpg", "thumb": "thumbs/premiersfrimas.jpg", "caption": "PREMIERS FRIMAS - 2018" }
 
     ]
 }

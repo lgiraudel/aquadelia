@@ -17,6 +17,7 @@
         { "url": "big/Lheuredubain0.jpg", "thumb": "thumbs/Lheuredubain0.jpg", "caption": "L'HEURE DU BAIN - 2013" },
         { "url": "big/Cestlete1.jpg", "thumb": "thumbs/Cestlete1.jpg", "caption": "C'EST L'ETE - 2014" },
         { "url": "big/leressac1.jpg", "thumb": "thumbs/leressac1.jpg", "caption": "LE RESSAC - 2014" },
-        { "url": "big/spot0.jpg", "thumb": "thumbs/spot0.jpg", "caption": "SPOT - 2014" }
+        { "url": "big/spot0.jpg", "thumb": "thumbs/spot0.jpg", "caption": "SPOT - 2014" },
+		{ "url": "big/glacier.jpg", "thumb": "thumbs/glacier.jpg", "caption": "GLACIER - 2018" }
     ]
 }
