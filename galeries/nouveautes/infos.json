@@ -1,24 +1,20 @@
 {
     "root": "../galeries/nouveautes/",
     "images": [
-        { "url": "big/kartapuss.jpg", "thumb": "thumbs/kartapuss.jpg", "caption": "KARTAPUSS - 2017" },
-        { "url": "big/placide.jpg", "thumb": "thumbs/placide.jpg", "caption": "PLACIDE - 2017" },
-        { "url": "big/promesse.jpg", "thumb": "thumbs/promesse.jpg", "caption": "PROMESSE - 2017" },
-        { "url": "big/grappe.jpg", "thumb": "thumbs/grappe.jpg", "caption": "GRAPPE - 2017" },
-        { "url": "big/angelo.jpg", "thumb": "thumbs/angelo.jpg", "caption": "ANGELO - 2017" },
-        { "url": "big/ecureuil.jpg", "thumb": "thumbs/ecureuil.jpg", "caption": "SURPRIS - 2017" },
-        { "url": "big/skyline.jpg", "thumb": "thumbs/skyline.jpg", "caption": "SKYLINE - 2017" },
-        { "url": "big/bellecollecte.jpg", "thumb": "thumbs/bellecollecte.jpg", "caption": "UNE BELLE COLLECTE - 2017" },
-        { "url": "big/chalerouge.jpg", "thumb": "thumbs/chalerouge.jpg", "caption": "LE CHALE ROUGE - 2017" },
-        { "url": "big/liberte.jpg", "thumb": "thumbs/liberte.jpg", "caption": "LIBERTE - 2017" },
-        { "url": "big/commeuneestampe.jpg", "thumb": "thumbs/commeuneestampe.jpg", "caption": "COMME UNE ESTAMPE... - 2017" },
-		{ "url": "big/lecondemusique.jpg", "thumb": "thumbs/lecondemusique.jpg", "caption": "LECON DE MUSIQUE - 2017" },
-		{ "url": "big/fruitsdautomne.jpg", "thumb": "thumbs/fruitsdautomne.jpg", "caption": "AUTOMNE - 2017" },
 		{ "url": "big/feu.jpg", "thumb": "thumbs/feu.jpg", "caption": "FEU DE CAMP - 2018" },
 		{ "url": "big/martin.jpg", "thumb": "thumbs/martin.jpg", "caption": "MARTIN LE PECHEUR - 2018" },
 		{ "url": "big/conversation.jpg", "thumb": "thumbs/conversation.jpg", "caption": "CONVERSATION - 2018" },
 		{ "url": "big/glacier.jpg", "thumb": "thumbs/glacier.jpg", "caption": "GLACIER - 2018" },
 		{ "url": "big/lattente.jpg", "thumb": "thumbs/lattente.jpg", "caption": "L'ATTENTE - 2018" },
-		{ "url": "big/premiersfrimas.jpg", "thumb": "thumbs/premiersfrimas.jpg", "caption": "PREMIERS FRIMAS - 2018" }
+		{ "url": "big/premiersfrimas.jpg", "thumb": "thumbs/premiersfrimas.jpg", "caption": "PREMIERS FRIMAS - 2018" },
+		{ "url": "big/cestlete.jpg", "thumb": "thumbs/cestlete.jpg", "caption": "C'EST L'ETE - 2018" },
+		{ "url": "big/lutindenoel.jpg", "thumb": "thumbs/lutindenoel.jpg", "caption": "LE LUTIN DE NOEL - 2018" },
+		{ "url": "big/princesse.jpg", "thumb": "thumbs/princesse.jpg", "caption": "PRINCESSE - 2018" },
+		{ "url": "big/retouraucampement.jpg", "thumb": "thumbs/retouraucampement.jpg", "caption": "RETOUR AU CAMPEMENT - 2018" },
+		{ "url": "big/sentierlittoral.jpg", "thumb": "thumbs/sentierlittoral.jpg", "caption": "SENTIER LITTORAL - 2018" },
+		{ "url": "big/lutindenoel.jpg", "thumb": "thumbs/lutindenoel.jpg", "caption": "LE LUTIN DE NOEL - 2018" },
+		{ "url": "big/souslondee.jpg", "thumb": "thumbs/souslondee.jpg", "caption": "SOUS L'ONDEE - 2018" },
+		{ "url": "big/tulevois.jpg", "thumb": "thumbs/tulevois.jpg", "caption": "TU LE VOIS ? - 2018" },
+		{ "url": "big/visiteaumusee.jpg", "thumb": "thumbs/visiteaumusee.jpg", "caption": "VISITE AU MUSEE - 2018" }
     ]
 }

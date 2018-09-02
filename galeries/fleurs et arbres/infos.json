@@ -33,6 +33,8 @@
         { "url": "big/promesse.jpg", "thumb": "thumbs/promesse.jpg", "caption": "PROMESSE - 2017" },
         { "url": "big/grappe.jpg", "thumb": "thumbs/grappe.jpg", "caption": "GRAPPE - 2017" },
         { "url": "big/commeuneestampe.jpg", "thumb": "thumbs/commeuneestampe.jpg", "caption": "COMME UNE ESTAMPE... - 2017" },
-		{ "url": "big/premiersfrimas.jpg", "thumb": "thumbs/premiersfrimas.jpg", "caption": "PREMIERS FRIMAS - 2018" }
+		{ "url": "big/premiersfrimas.jpg", "thumb": "thumbs/premiersfrimas.jpg", "caption": "PREMIERS FRIMAS - 2018" },
+		{ "url": "big/souslondee.jpg", "thumb": "thumbs/souslondee.jpg", "caption": "SOUS L'ONDEE - 2018" },
+		{ "url": "big/cestlete.jpg", "thumb": "thumbs/cestlete.jpg", "caption": "C'EST L'ETE - 2018" }
     ]
 }
