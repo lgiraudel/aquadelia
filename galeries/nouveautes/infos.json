@@ -14,6 +14,9 @@
 		{ "url": "big/sentierlittoral.jpg", "thumb": "thumbs/sentierlittoral.jpg", "caption": "SENTIER LITTORAL - 2018" },
 		{ "url": "big/souslondee.jpg", "thumb": "thumbs/souslondee.jpg", "caption": "SOUS L'ONDEE - 2018" },
 		{ "url": "big/tulevois.jpg", "thumb": "thumbs/tulevois.jpg", "caption": "TU LE VOIS ? - 2018" },
-		{ "url": "big/visiteaumusee.jpg", "thumb": "thumbs/visiteaumusee.jpg", "caption": "VISITE AU MUSEE - 2018" }
+		{ "url": "big/visiteaumusee.jpg", "thumb": "thumbs/visiteaumusee.jpg", "caption": "VISITE AU MUSEE - 2018" },
+		{ "url": "big/lebouriffee.jpg", "thumb": "thumbs/lebouriffee.jpg", "caption": "L'EBOURIFFEE - 2018" },
+		{ "url": "big/selva.jpg", "thumb": "thumbs/selva.jpg", "caption": "SELVA - 2018" },
+		{ "url": "big/reverievegetale.jpg", "thumb": "thumbs/reverievegetale.jpg", "caption": "REVERIE VEGETALE - 2018" }
     ]
 }
