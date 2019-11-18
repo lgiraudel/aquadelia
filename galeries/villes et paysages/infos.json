@@ -30,6 +30,7 @@
         { "url": "big/alpage.jpg", "thumb": "thumbs/alpage.jpg", "caption": "ALPAGE - 2016" },
         { "url": "big/petitemaison.jpg", "thumb": "thumbs/petitemaison.jpg", "caption": "LA PETITE MAISON - 2016" },
         { "url": "big/skyline.jpg", "thumb": "thumbs/skyline.jpg", "caption": "SKYLINE - 2017" },
-		{ "url": "big/sentierlittoral.jpg", "thumb": "thumbs/sentierlittoral.jpg", "caption": "SENTIER LITTORAL - 2018" }
+		{ "url": "big/sentierlittoral.jpg", "thumb": "thumbs/sentierlittoral.jpg", "caption": "SENTIER LITTORAL - 2018" },
+		{ "url": "big/premiersgivres.jpg", "thumb": "thumbs/premiersgivres.jpg", "caption": "PREMIERS GIVRES - 2019" }
     ]
 }

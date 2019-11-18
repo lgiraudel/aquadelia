@@ -30,7 +30,14 @@
         { "url": "big/placide.jpg", "thumb": "thumbs/placide.jpg", "caption": "PLACIDE - 2017" },
 		{ "url": "big/martin.jpg", "thumb": "thumbs/martin.jpg", "caption": "MARTIN LE PECHEUR - 2018" },
 		{ "url": "big/conversation.jpg", "thumb": "thumbs/conversation.jpg", "caption": "CONVERSATION - 2018" },
-		{ "url": "big/tulevois.jpg", "thumb": "thumbs/tulevois.jpg", "caption": "TU LE VOIS ? - 2018" }
+		{ "url": "big/tulevois.jpg", "thumb": "thumbs/tulevois.jpg", "caption": "TU LE VOIS ? - 2018" },
+		{ "url": "big/seigneurdessavanes.jpg", "thumb": "thumbs/seigneurdessavanes.jpg", "caption": "SEIGNEUR DES SAVANES - 2017" },
+		{ "url": "big/biendormi.jpg", "thumb": "thumbs/biendormi.jpg", "caption": "BIEN DORMI BOZZO ? - 2019" },
+		{ "url": "big/poussieredor.jpg", "thumb": "thumbs/poussieredor.jpg", "caption": "DANS LA POUSSIERE D'OR - 2019" },
+		{ "url": "big/lezardenfete.jpg", "thumb": "thumbs/lezardenfete.jpg", "caption": "LEZARD EN FETE - 2019" },
+		{ "url": "big/patriarche.jpg", "thumb": "thumbs/patriarche.jpg", "caption": "LE PATRIARCHE - 2019 (pastel)" },
+		{ "url": "big/rencontre.jpg", "thumb": "thumbs/rencontre.jpg", "caption": "RENCONTRE - 2019" },
+		{ "url": "big/tropfatigue.jpg", "thumb": "thumbs/tropfatigue.jpg", "caption": "TROP FATIGUE ! - 2019" }
 
     ]
 }

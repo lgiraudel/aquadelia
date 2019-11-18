@@ -17,6 +17,21 @@
 		{ "url": "big/visiteaumusee.jpg", "thumb": "thumbs/visiteaumusee.jpg", "caption": "VISITE AU MUSEE - 2018" },
 		{ "url": "big/lebouriffee.jpg", "thumb": "thumbs/lebouriffee.jpg", "caption": "L'EBOURIFFEE - 2018" },
 		{ "url": "big/selva.jpg", "thumb": "thumbs/selva.jpg", "caption": "SELVA - 2018" },
-		{ "url": "big/reverievegetale.jpg", "thumb": "thumbs/reverievegetale.jpg", "caption": "REVERIE VEGETALE - 2018" }
+		{ "url": "big/reverievegetale.jpg", "thumb": "thumbs/reverievegetale.jpg", "caption": "REVERIE VEGETALE - 2018" },
+		{ "url": "big/ilfautchoisir.jpg", "thumb": "thumbs/ilfautchoisir.jpg", "caption": "IL FAUT CHOISIR - 2018 (pastel)" },
+		{ "url": "big/starlette.jpg", "thumb": "thumbs/starlette.jpg", "caption": "STARLETTE - 2018" },
+		{ "url": "big/fruitsdautomne.jpg", "thumb": "thumbs/fruitsdautomne.jpg", "caption": "FRUITS D'AUTOMNE - 2018 (pastel)" },
+		{ "url": "big/grandma.jpg", "thumb": "thumbs/grandma.jpg", "caption": "GRAND MA - 2018" },
+		{ "url": "big/emilie.jpg", "thumb": "thumbs/emilie.jpg", "caption": "EMILIE - 2018 (pastel)" },
+		{ "url": "big/seigneurdessavanes.jpg", "thumb": "thumbs/seigneurdessavanes.jpg", "caption": "SEIGNEUR DES SAVANES - 2017" },
+		{ "url": "big/leverdujour.jpg", "thumb": "thumbs/leverdujour.jpg", "caption": "LEVER DU JOUR - 2018" },
+		{ "url": "big/biendormi.jpg", "thumb": "thumbs/biendormi.jpg", "caption": "BIEN DORMI BOZZO ? - 2019" },
+		{ "url": "big/poussieredor.jpg", "thumb": "thumbs/poussieredor.jpg", "caption": "DANS LA POUSSIERE D'OR - 2019" },
+		{ "url": "big/rouleau.jpg", "thumb": "thumbs/rouleau.jpg", "caption": "ROULEAU - 2019" },
+		{ "url": "big/lezardenfete.jpg", "thumb": "thumbs/lezardenfete.jpg", "caption": "LEZARD EN FETE - 2019" },
+		{ "url": "big/patriarche.jpg", "thumb": "thumbs/patriarche.jpg", "caption": "LE PATRIARCHE - 2019 (pastel)" },
+		{ "url": "big/rencontre.jpg", "thumb": "thumbs/rencontre.jpg", "caption": "RENCONTRE - 2019" },
+		{ "url": "big/premiersgivres.jpg", "thumb": "thumbs/premiersgivres.jpg", "caption": "PREMIERS GIVRES - 2019" },
+		{ "url": "big/tropfatigue.jpg", "thumb": "thumbs/tropfatigue.jpg", "caption": "TROP FATIGUE ! - 2019" }
     ]
 }

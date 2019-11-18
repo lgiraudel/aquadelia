@@ -36,6 +36,8 @@
 		{ "url": "big/premiersfrimas.jpg", "thumb": "thumbs/premiersfrimas.jpg", "caption": "PREMIERS FRIMAS - 2018" },
 		{ "url": "big/souslondee.jpg", "thumb": "thumbs/souslondee.jpg", "caption": "SOUS L'ONDEE - 2018" },
 		{ "url": "big/cestlete.jpg", "thumb": "thumbs/cestlete.jpg", "caption": "C'EST L'ETE - 2018" },
-		{ "url": "big/lebouriffee.jpg", "thumb": "thumbs/lebouriffee.jpg", "caption": "L'EBOURIFFEE - 2018" }
+		{ "url": "big/lebouriffee.jpg", "thumb": "thumbs/lebouriffee.jpg", "caption": "L'EBOURIFFEE - 2018" },
+		{ "url": "big/fruitsdautomne.jpg", "thumb": "thumbs/fruitsdautomne.jpg", "caption": "FRUITS D'AUTOMNE - 2018 (pastel)" },
+		{ "url": "big/leverdujour.jpg", "thumb": "thumbs/leverdujour.jpg", "caption": "LEVER DU JOUR - 2018" }
     ]
 }

@@ -33,6 +33,9 @@
         { "url": "big/angelo.jpg", "thumb": "thumbs/angelo.jpg", "caption": "ANGELO - 2017" },
 		{ "url": "big/lutindenoel.jpg", "thumb": "thumbs/lutindenoel.jpg", "caption": "LE LUTIN DE NOEL - 2018" },
 		{ "url": "big/princesse.jpg", "thumb": "thumbs/princesse.jpg", "caption": "PRINCESSE - 2018" },
-		{ "url": "big/selva.jpg", "thumb": "thumbs/selva.jpg", "caption": "SELVA - 2018" }
+		{ "url": "big/selva.jpg", "thumb": "thumbs/selva.jpg", "caption": "SELVA - 2018" },
+		{ "url": "big/starlette.jpg", "thumb": "thumbs/starlette.jpg", "caption": "STARLETTE - 2018" },
+		{ "url": "big/grandma.jpg", "thumb": "thumbs/grandma.jpg", "caption": "GRAND MA - 2018" },
+		{ "url": "big/emilie.jpg", "thumb": "thumbs/emilie.jpg", "caption": "EMILIE - 2018 (pastel)" }
     ]
 }
