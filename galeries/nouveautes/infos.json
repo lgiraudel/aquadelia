@@ -1,6 +1,7 @@
 {
     "root": "../galeries/nouveautes/",
     "images": [
+		{ "url": "big/seigneurdessavanes.jpg", "thumb": "thumbs/seigneurdessavanes.jpg", "caption": "SEIGNEUR DES SAVANES - 2017" },
 		{ "url": "big/feu.jpg", "thumb": "thumbs/feu.jpg", "caption": "FEU DE CAMP - 2018" },
 		{ "url": "big/martin.jpg", "thumb": "thumbs/martin.jpg", "caption": "MARTIN LE PECHEUR - 2018" },
 		{ "url": "big/conversation.jpg", "thumb": "thumbs/conversation.jpg", "caption": "CONVERSATION - 2018" },
@@ -23,7 +24,6 @@
 		{ "url": "big/fruitsdautomne.jpg", "thumb": "thumbs/fruitsdautomne.jpg", "caption": "FRUITS D'AUTOMNE - 2018 (pastel)" },
 		{ "url": "big/grandma.jpg", "thumb": "thumbs/grandma.jpg", "caption": "GRAND MA - 2018" },
 		{ "url": "big/emilie.jpg", "thumb": "thumbs/emilie.jpg", "caption": "EMILIE - 2018 (pastel)" },
-		{ "url": "big/seigneurdessavanes.jpg", "thumb": "thumbs/seigneurdessavanes.jpg", "caption": "SEIGNEUR DES SAVANES - 2017" },
 		{ "url": "big/leverdujour.jpg", "thumb": "thumbs/leverdujour.jpg", "caption": "LEVER DU JOUR - 2018" },
 		{ "url": "big/biendormi.jpg", "thumb": "thumbs/biendormi.jpg", "caption": "BIEN DORMI BOZZO ? - 2019" },
 		{ "url": "big/poussieredor.jpg", "thumb": "thumbs/poussieredor.jpg", "caption": "DANS LA POUSSIERE D'OR - 2019" },
