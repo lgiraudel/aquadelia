@@ -38,6 +38,11 @@
 		{ "url": "big/cestlete.jpg", "thumb": "thumbs/cestlete.jpg", "caption": "C'EST L'ETE - 2018" },
 		{ "url": "big/lebouriffee.jpg", "thumb": "thumbs/lebouriffee.jpg", "caption": "L'EBOURIFFEE - 2018" },
 		{ "url": "big/fruitsdautomne.jpg", "thumb": "thumbs/fruitsdautomne.jpg", "caption": "FRUITS D'AUTOMNE - 2018 (pastel)" },
-		{ "url": "big/leverdujour.jpg", "thumb": "thumbs/leverdujour.jpg", "caption": "LEVER DU JOUR - 2018" }
+		{ "url": "big/leverdujour.jpg", "thumb": "thumbs/leverdujour.jpg", "caption": "LEVER DU JOUR - 2018" },
+		{ "url": "big/promesse2.jpg", "thumb": "thumbs/promesse2.jpg", "caption": "PROMESSE - 2019" },
+		{ "url": "big/vendange.jpg", "thumb": "thumbs/vendange.jpg", "caption": "VENDANGE - 2020" }
+
+				
+
     ]
 }

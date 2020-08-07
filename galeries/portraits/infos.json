@@ -36,6 +36,7 @@
 		{ "url": "big/selva.jpg", "thumb": "thumbs/selva.jpg", "caption": "SELVA - 2018" },
 		{ "url": "big/starlette.jpg", "thumb": "thumbs/starlette.jpg", "caption": "STARLETTE - 2018" },
 		{ "url": "big/grandma.jpg", "thumb": "thumbs/grandma.jpg", "caption": "GRAND MA - 2018" },
-		{ "url": "big/emilie.jpg", "thumb": "thumbs/emilie.jpg", "caption": "EMILIE - 2018 (pastel)" }
+		{ "url": "big/emilie.jpg", "thumb": "thumbs/emilie.jpg", "caption": "EMILIE - 2018 (pastel)" },
+		{ "url": "big/kushi.jpg", "thumb": "thumbs/kushi.jpg", "caption": "KUSHI - 2020" }
     ]
 }
