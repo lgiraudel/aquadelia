@@ -1,20 +1,18 @@
 {
     "root": "../galeries/nouveautes/",
     "images": [
-		{ "url": "big/biendormi.jpg", "thumb": "thumbs/biendormi.jpg", "caption": "BIEN DORMI BOZZO ? - 2019" },
-		{ "url": "big/poussieredor.jpg", "thumb": "thumbs/poussieredor.jpg", "caption": "DANS LA POUSSIERE D'OR - 2019" },
-		{ "url": "big/rouleau.jpg", "thumb": "thumbs/rouleau.jpg", "caption": "ROULEAU - 2019" },
-		{ "url": "big/lezardenfete.jpg", "thumb": "thumbs/lezardenfete.jpg", "caption": "LEZARD EN FETE - 2019" },
-		{ "url": "big/patriarche.jpg", "thumb": "thumbs/patriarche.jpg", "caption": "LE PATRIARCHE - 2019 (pastel)" },
-		{ "url": "big/faceaface.jpg", "thumb": "thumbs/faceaface.jpg", "caption": "FACE A FACE - 2019" },
-		{ "url": "big/premiersgivres.jpg", "thumb": "thumbs/premiersgivres.jpg", "caption": "PREMIERS GIVRES - 2019" },
-		{ "url": "big/tropfatigue.jpg", "thumb": "thumbs/tropfatigue.jpg", "caption": "TROP FATIGUE ! - 2019" },
 		{ "url": "big/lachasse.jpg", "thumb": "thumbs/lachasse.jpg", "caption": "LA CHASSE - 2019" },
 		{ "url": "big/promesse2.jpg", "thumb": "thumbs/promesse2.jpg", "caption": "PROMESSE - 2019" },
 		{ "url": "big/belleneige.jpg", "thumb": "thumbs/belleneige.jpg", "caption": "BELLE NEIGE - 2019" },
-		{ "url": "big/jazz.jpg", "thumb": "thumbs/jazz.jpg", "caption": "JAZZ - 2019" },
 		{ "url": "big/pechefructueuse.jpg", "thumb": "thumbs/pechefructueuse.jpg", "caption": "PECHE FRUCTUEUSE ? - 2020" },
 		{ "url": "big/kushi.jpg", "thumb": "thumbs/kushi.jpg", "caption": "KUSHI - 2020" },
-		{ "url": "big/vendange.jpg", "thumb": "thumbs/vendange.jpg", "caption": "VENDANGE - 2020" }
+		{ "url": "big/vendange.jpg", "thumb": "thumbs/vendange.jpg", "caption": "VENDANGE - 2020" },
+		{ "url": "big/etebrulant.jpg", "thumb": "thumbs/etebrulant.jpg", "caption": "ETE BRULANT - 2020" },
+		{ "url": "big/faceaface2.jpg", "thumb": "thumbs/faceaface2.jpg", "caption": "FACE A FACE - 2020" },
+		{ "url": "big/jubilation.jpg", "thumb": "thumbs/jubilation.jpg", "caption": "JUBILATION - 2020" },
+		{ "url": "big/lenfantsage.jpg", "thumb": "thumbs/lenfantsage.jpg", "caption": "L'ENFANT SAGE - 2018" },
+		{ "url": "big/quelregal.jpg", "thumb": "thumbs/quelregal.jpg", "caption": "QUEL REGAL - 2020" },
+		{ "url": "big/vousmavezappelee.jpg", "thumb": "thumbs/vousmavezappelee.jpg", "caption": "VOUS M'AVEZ APPELEE ? - 2020" },
+		{ "url": "big/jevousaivus.jpg", "thumb": "thumbs/jevousaivus.jpg", "caption": "JE VOUS AI VUS ! - 2020" }
     ]
 }

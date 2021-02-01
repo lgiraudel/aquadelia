@@ -37,7 +37,12 @@
 		{ "url": "big/lezardenfete.jpg", "thumb": "thumbs/lezardenfete.jpg", "caption": "LEZARD EN FETE - 2019" },
 		{ "url": "big/patriarche.jpg", "thumb": "thumbs/patriarche.jpg", "caption": "LE PATRIARCHE - 2019 (pastel)" },
 		{ "url": "big/rencontre.jpg", "thumb": "thumbs/rencontre.jpg", "caption": "RENCONTRE - 2019" },
-		{ "url": "big/tropfatigue.jpg", "thumb": "thumbs/tropfatigue.jpg", "caption": "TROP FATIGUE ! - 2019" }
+		{ "url": "big/tropfatigue.jpg", "thumb": "thumbs/tropfatigue.jpg", "caption": "TROP FATIGUE ! - 2019" },
+		{ "url": "big/lachasse.jpg", "thumb": "thumbs/lachasse.jpg", "caption": "LA CHASSE - 2019" },
+		{ "url": "big/faceaface2.jpg", "thumb": "thumbs/faceaface2e.jpg", "caption": "FACE A FACE - 2020" },
+		{ "url": "big/quelregal.jpg", "thumb": "thumbs/quelregal.jpg", "caption": "QUEL REGAL - 2020" },
+		{ "url": "big/vousmavezappelee.jpg", "thumb": "thumbs/vousmavezappelee.jpg", "caption": "VOUS M'AVEZ APPELEE ? - 2020" },
+		{ "url": "big/jevousaivus.jpg", "thumb": "thumbs/jevousaivus.jpg", "caption": "JE VOUS AI VUS ! - 2020" }
 
     ]
 }
