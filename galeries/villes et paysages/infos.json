@@ -32,6 +32,8 @@
         { "url": "big/skyline.jpg", "thumb": "thumbs/skyline.jpg", "caption": "SKYLINE - 2017" },
 		{ "url": "big/sentierlittoral.jpg", "thumb": "thumbs/sentierlittoral.jpg", "caption": "SENTIER LITTORAL - 2018" },
 		{ "url": "big/premiersgivres.jpg", "thumb": "thumbs/premiersgivres.jpg", "caption": "PREMIERS GIVRES - 2019" },
-		{ "url": "big/belleneige.jpg", "thumb": "thumbs/belleneige.jpg", "caption": "BELLE NEIGE - 2019" }
+		{ "url": "big/belleneige.jpg", "thumb": "thumbs/belleneige.jpg", "caption": "BELLE NEIGE - 2019" },
+		{ "url": "big/serreponcon.jpg", "thumb": "thumbs/serreponcon.jpg", "caption": "SERRE-PONÇON - 2021" },
+		{ "url": "big/auroreboreale.jpg", "thumb": "thumbs/auroreboreale.jpg", "caption": "AURORE BOREALE - 2022" }
     ]
 }

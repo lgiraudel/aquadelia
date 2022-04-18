@@ -42,7 +42,9 @@
 		{ "url": "big/faceaface2.jpg", "thumb": "thumbs/faceaface2.jpg", "caption": "FACE A FACE - 2020" },
 		{ "url": "big/quelregal.jpg", "thumb": "thumbs/quelregal.jpg", "caption": "QUEL REGAL - 2020" },
 		{ "url": "big/vousmavezappelee.jpg", "thumb": "thumbs/vousmavezappelee.jpg", "caption": "VOUS M'AVEZ APPELEE ? - 2020" },
-		{ "url": "big/jevousaivus.jpg", "thumb": "thumbs/jevousaivus.jpg", "caption": "JE VOUS AI VUS ! - 2020" }
+		{ "url": "big/jevousaivus.jpg", "thumb": "thumbs/jevousaivus.jpg", "caption": "JE VOUS AI VUS ! - 2020" },
+		{ "url": "big/maman.jpg", "thumb": "thumbs/maman.jpg", "caption": "MAMAAAN !... - 2022" },
+		{ "url": "big/kekseksa.jpg", "thumb": "thumbs/kekseksa.jpg", "caption": "KEKSEKSA ??? - 2022" }
 
     ]
 }
